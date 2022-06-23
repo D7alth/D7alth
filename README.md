@@ -9,14 +9,17 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Javascript', 'C#', 'PHP', 'Java'];
+  linguagens  = ['Javascript', 'C#', 'C++', 'Java'];
   bibliotecas = ['React.js', 'Bootstrap', 'Three.js'];
   frameworks = ['Vue.js', 'React Native', 'Unity', '.net', 'Entry', 'Laravel'];
 }
 ```
 
 <p align="left">
-
+  
+  <a href="https://alberthhls.com.br/" alt="WebSite">
+  <img src="https://img.shields.io/website"/></a>
+  
   <a href="https://www.linkedin.com/in/alberth-dev/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
