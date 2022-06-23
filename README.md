@@ -18,7 +18,7 @@ class Skills extends Desenvolvedor {
 <p align="left">
  
   <a href="https://alberthhls.com.br/" alt="WebSite">
-  <img src="https://img.shields.io/website?style=for-the-badge&up_message=Alberth&url=https%3A%2F%2Falberthhls.com.br%2F"/></a>
+  <img src="https://img.shields.io/website?style=flat-square&up_message=Alberth&url=https%3A%2F%2Falberthhls.com.br%2F"/></a>
   
   <a href="https://www.linkedin.com/in/alberth-dev/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
