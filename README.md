@@ -29,8 +29,9 @@ class Skills extends Desenvolvedor {
 
 ## Um pouqinho sobre as HARD SKILLS
 
-<div>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=D7alth&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## Uns projetinho aqui outros ali...
 [![card](https://github-readme-stats.vercel.app/api?username=D7alth&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+
