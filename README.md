@@ -30,7 +30,7 @@ class Skills extends Desenvolvedor {
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-## Um pouqinho sobre as HARD SKILLS
+## ouvi falar HARD SKILLS ?
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=D7alth&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
