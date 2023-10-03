@@ -35,6 +35,7 @@ class Skills extends Desenvolvedor {
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=D7alth&hide=html&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api?username=D7alth&show_icons=true&theme=radical)
 
 ## Uns projetinho aqui outros ali...
-[![card](https://github-readme-stats.vercel.app/api?username=D7alth&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D7alth&show_icons=true&theme=transparent)
+
 
 
