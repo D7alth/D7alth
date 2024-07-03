@@ -4,7 +4,7 @@ import Desenvolvedor from 'Alberth.henrique';
 class AboutMe extends Dev {
   name = 'Alberth Henrique';
   title = 'Backend Developer';
-  workAt = 'Grupo Orion - Cortex';
+  company = 'Grupo Orion - Cortex';
   location = 'Federal District';
 }
 
