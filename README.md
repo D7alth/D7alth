@@ -1,18 +1,18 @@
 ```js
 import Desenvolvedor from 'Alberth.henrique';
 
-class SobreMim extends Desenvolvedor {
-  nome = 'alberth henrique';
-  area    = 'Desenvolvedor FULL STACK';
-  trabalho  = 'MEIAUM.DIGITAL';
-  local = 'FEDERAL DISCRICT';
+class AboutMe extends Dev {
+  name = 'Alberth Henrique';
+  title = 'Backend Developer';
+  workAt = 'Grupo Orion - Cortex';
+  location = 'Federal District';
 }
 
-class Skills extends Desenvolvedor {
-  linguagens  = ['Javascript', 'C#', 'C++', 'Java'];
-  bibliotecas = ['React.js', 'Bootstrap', 'Three.js'];
-  frameworks = ['Vue.js', 'React Native', 'Unity', '.net', 'Entry', 'Laravel'];
+class Skills extends Dev {
+  languages = ['Javascript', 'C#', 'C++', 'Java'];
+  frameworks = ['.Net', 'Entry', 'Laravel', 'Django'];
 }
+
 ```
 
 <p align="left">
@@ -30,12 +30,10 @@ class Skills extends Desenvolvedor {
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-## ouvi falar HARD SKILLS ?
+## Heard about HARD SKILLS?
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=D7alth&hide=html&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api?username=D7alth&show_icons=true&theme=radical)
 
-## Uns projetinho aqui outros ali...
+## A few projects here and there...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D7alth&show_icons=true&theme=transparent)
-
-
 
